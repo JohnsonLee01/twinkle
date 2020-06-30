@@ -337,6 +337,11 @@ Twinkle.welcome.templates = {
 		linkedArticle: false,
 		syntax: "{{subst:welcome-short|$USERNAME$}} $EXTRA$ ~~~~"
 	},
+	"welcome-new": {
+		description: "chào thành viên mới bằng bản mẫu hiện đại",
+		linkedArticle: false,
+		syntax: "{{subst:Hoan nghênh12|$USERNAME$}} $EXTRA$ ~~~~"
+	},
 	"welcome-personal": {
 		description: "more personal welcome, including a plate of cookies",
 		linkedArticle: false,
